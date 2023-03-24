@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Write a description of class HaskellKalebBubbleSort here.
+ * Bubble sort!! :D
  *
  * @author (your name)
  * @version (a version number or a date)
