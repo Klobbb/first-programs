@@ -2,11 +2,11 @@
 /**
  * Write a description of class DayzArrayzd here.
  *  This program is to fill a 5 x 5 array with random values that 
- *  range from 1 t0 50
+ *  range from 1 to 50
  *  Then... Show all of the values from the array in a grid
  *  Then..
  *  Go through the array and find and show the highest value in an array
- * @author Mr. Smith
+ * @author Kaleb
  * @version 0.952   3/5/2020
  */
 public class HaskellKalebDayzArrayzd
